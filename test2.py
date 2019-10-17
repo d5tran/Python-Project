@@ -9,5 +9,5 @@ def test1():
 def test2():
     print(x)
 
-#test1()
+test1()
 test2()
