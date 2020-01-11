@@ -5,7 +5,7 @@ from selenium.webdriver.support import expected_conditions as ec
 from selenium.webdriver.common.by import By
 
 driver = webdriver.Firefox()
-driver.get("https://next.qa.bidsandtenders.ca")
+driver.get("https://next.qa.bidsandtenders.ca") 
 driver.maximize_window()
 current_url = driver.current_url
 
