@@ -33,6 +33,3 @@ elem = driver.find_element_by_xpath("//h4[@class='app-title-heading is-size-3']"
 if elem.text.strip() == 'Welcome, Test Account':
      print("Successfully Logged in")
 else:
-    print("Unsuccessfully logged in")
-
- #Testing out stuff MORE stuff
