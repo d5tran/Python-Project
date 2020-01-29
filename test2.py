@@ -11,16 +11,5 @@ def test2():
 
 test1()
 test2()
-<<<<<<< HEAD
-<<<<<<< HEAD
-#Testing the comments 234 asdf asdfasd fasd
-=======
-
-#MOrestuff to add one last time test
-#adfasfasd
-#dueuddueu asdfsdf
->>>>>>> 9952aec1734223e539c49845083291d9ea9551bc
-=======
-#Testing the comments 234
-#adding a commit change
->>>>>>> Testing stuff
+#my struff
+test()
