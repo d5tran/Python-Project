@@ -12,4 +12,4 @@ def test2():
 test1()
 test2()
 #my struff
-test()
+test() test
