@@ -11,7 +11,6 @@ def test2():
 
 test1()
 test2()
-
-#MOrestuff to add one last time test
-#adfasfasd
-#dueuddueu asdfsdf
+#my struff
+test() test test2
+#this is my Feb 8 push to remote

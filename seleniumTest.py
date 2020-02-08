@@ -5,7 +5,11 @@ from selenium.webdriver.support import expected_conditions as ec
 from selenium.webdriver.common.by import By
 
 driver = webdriver.Firefox()
+<<<<<<< HEAD
 driver.get("https://next.qa.bidsandtenders.ca") 
+=======
+driver.get("https://next.qa.bidsandtenders.ca")
+>>>>>>> Testing stuff
 driver.maximize_window()
 current_url = driver.current_url
 
@@ -33,4 +37,7 @@ elem = driver.find_element_by_xpath("//h4[@class='app-title-heading is-size-3']"
 if elem.text.strip() == 'Welcome, Test Account':
      print("Successfully Logged in")
 else:
+<<<<<<< HEAD
+=======
     print("Unsuccessfully logged in")
+>>>>>>> Testing stuff
