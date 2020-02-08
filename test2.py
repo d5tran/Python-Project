@@ -11,8 +11,3 @@ def test2():
 
 test1()
 test2()
-#my struff
-test() test test2
-#this is my Feb 8 push to remote
-
-Adding new stuff
