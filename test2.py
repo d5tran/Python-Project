@@ -11,9 +11,8 @@ def test2():
 
 test1()
 test2()
-<<<<<<< HEAD
+
 #Pull from Master/develop to update local master/develop
 #Go to your branch and rebase with master/develop
 #This should pull the latest and greatest into your branch
-<<<<<<< HEAD
 #this is what you should do.
