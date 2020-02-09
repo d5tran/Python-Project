@@ -16,3 +16,6 @@ test2()
 #Go to your branch and rebase with master/develop
 #This should pull the latest and greatest into your branch
 #this is what you should do.
+
+#added new develop branch crap
+#trying out rebase 123 changings! feature!
