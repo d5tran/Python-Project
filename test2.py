@@ -17,10 +17,3 @@ test2()
 #This should pull the latest and greatest into your branch
 <<<<<<< HEAD
 #this is what you should do.
-=======
-#my struff
-test() test test2
-#my new stuff
->>>>>>> my nes stuff
-=======
->>>>>>> 9b9543d30929e2a7924fe5bde50375a81b30a95b
